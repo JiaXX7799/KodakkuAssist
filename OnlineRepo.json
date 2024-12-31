@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Omega1",
+        "Guid": "e0053855-1afd-49a7-85c8-537a6c7c1273",
+        "Version": "0.0.0.1",
+        "Author": "JiaXX",
+        "DownloadUrl": "https://raw.githubusercontent.com/JiaXX7799/KodakkuAssist/refs/heads/master/KodakkuAssist/Omega/Omega1.cs",
+        "UpdateInfo": ""
+    },
+    {
+        "Name": "Omega2",
+        "Guid": "f5018ffb-0a41-476f-8966-12f81e83e7b1",
+        "Version": "0.0.0.1",
+        "Author": "JiaXX",
+        "DownloadUrl": "https://raw.githubusercontent.com/JiaXX7799/KodakkuAssist/refs/heads/master/KodakkuAssist/Omega/Omega2.cs",
+        "UpdateInfo": ""
+    },
+    {
+        "Name": "Omega3",
+        "Guid": "893c2dfc-cf25-4685-a750-9211c5c3610c",
+        "Version": "0.0.0.1",
+        "Author": "JiaXX",
+        "DownloadUrl": "https://raw.githubusercontent.com/JiaXX7799/KodakkuAssist/refs/heads/master/KodakkuAssist/Omega/Omega3.cs",
+        "UpdateInfo": ""
+    },
+    {
+        "Name": "Omega4",
+        "Guid": "b3d37f50-67f9-4e57-9a58-afa3861a168c",
+        "Version": "0.0.0.1",
+        "Author": "JiaXX",
+        "DownloadUrl": "https://raw.githubusercontent.com/JiaXX7799/KodakkuAssist/refs/heads/master/KodakkuAssist/Omega/Omega4.cs",
+        "UpdateInfo": ""
+    }
+]
